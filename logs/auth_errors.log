@@ -1,0 +1,1011 @@
+[2026-01-31 11:02:24] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "Unknown"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:02:24] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/localhost\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:02:45] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "Unknown"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:02:45] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/localhost\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:03:26] IP: ::1 | URL: /amsp/index.php
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/index.php",
+    "redirect_to": "http:\/\/localhost\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:03:31] IP: ::1 | URL: /amsp/auth/login_process.php
+📝 LOGIN ATTEMPT
+Context: {
+    "method": "POST",
+    "referer": "http:\/\/localhost\/amsp\/service-worker.js"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:03:31] IP: ::1 | URL: /amsp/auth/login_process.php
+🔍 DATABASE QUERY
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:03:31] IP: ::1 | URL: /amsp/auth/login_process.php
+✅ LOGIN SUCCESS
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:03:31] IP: ::1 | URL: /amsp/auth/login_process.php
+↩️ REDIRECT
+Context: {
+    "from": "login",
+    "to": "..\/index.php",
+    "reason": "Successful authentication"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:03:37] IP: ::1 | URL: /amsp/auth/login_process.php
+📝 LOGIN ATTEMPT
+Context: {
+    "method": "POST",
+    "referer": "http:\/\/localhost\/amsp\/service-worker.js"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:03:37] IP: ::1 | URL: /amsp/auth/login_process.php
+🔍 DATABASE QUERY
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:03:37] IP: ::1 | URL: /amsp/auth/login_process.php
+✅ LOGIN SUCCESS
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:03:37] IP: ::1 | URL: /amsp/auth/login_process.php
+↩️ REDIRECT
+Context: {
+    "from": "login",
+    "to": "..\/index.php",
+    "reason": "Successful authentication"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:03:48] IP: ::1 | URL: /amsp/auth/login_process.php
+📝 LOGIN ATTEMPT
+Context: {
+    "method": "POST",
+    "referer": "http:\/\/localhost\/amsp\/service-worker.js"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:03:48] IP: ::1 | URL: /amsp/auth/login_process.php
+🔍 DATABASE QUERY
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:03:49] IP: ::1 | URL: /amsp/auth/login_process.php
+✅ LOGIN SUCCESS
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:03:49] IP: ::1 | URL: /amsp/auth/login_process.php
+↩️ REDIRECT
+Context: {
+    "from": "login",
+    "to": "..\/index.php",
+    "reason": "Successful authentication"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:03:58] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "Unknown"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:03:58] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:04:03] IP: ::1 | URL: /amsp/auth/login_process.php
+📝 LOGIN ATTEMPT
+Context: {
+    "method": "POST",
+    "referer": "https:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/service-worker.js"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:04:03] IP: ::1 | URL: /amsp/auth/login_process.php
+🔍 DATABASE QUERY
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:04:04] IP: ::1 | URL: /amsp/auth/login_process.php
+✅ LOGIN SUCCESS
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:04:04] IP: ::1 | URL: /amsp/auth/login_process.php
+↩️ REDIRECT
+Context: {
+    "from": "login",
+    "to": "..\/index.php",
+    "reason": "Successful authentication"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:04:14] IP: ::1 | URL: /amsp/auth/login_process.php
+📝 LOGIN ATTEMPT
+Context: {
+    "method": "POST",
+    "referer": "https:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/service-worker.js"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:04:14] IP: ::1 | URL: /amsp/auth/login_process.php
+🔍 DATABASE QUERY
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:04:15] IP: ::1 | URL: /amsp/auth/login_process.php
+✅ LOGIN SUCCESS
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:04:15] IP: ::1 | URL: /amsp/auth/login_process.php
+↩️ REDIRECT
+Context: {
+    "from": "login",
+    "to": "..\/index.php",
+    "reason": "Successful authentication"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:05:36] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:05:36] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:05:47] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "Unknown"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:05:47] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:10] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "Unknown"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:10] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:11] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "Unknown"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:11] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:14] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "Unknown"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:14] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:38] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "Unknown"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:38] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:39] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "Unknown"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:39] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:39] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "Unknown"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:39] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:39] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "Unknown"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:39] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:40] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "Unknown"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:40] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:40] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "Unknown"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:40] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:49] IP: ::1 | URL: /amsp/auth/login_process.php
+📝 LOGIN ATTEMPT
+Context: {
+    "method": "POST",
+    "referer": "https:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:49] IP: ::1 | URL: /amsp/auth/login_process.php
+🔍 DATABASE QUERY
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:49] IP: ::1 | URL: /amsp/auth/login_process.php
+✅ LOGIN SUCCESS
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:49] IP: ::1 | URL: /amsp/auth/login_process.php
+↩️ REDIRECT
+Context: {
+    "from": "login",
+    "to": "..\/index.php",
+    "reason": "Successful authentication"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:52] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:52] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:06:57] IP: ::1 | URL: /amsp/
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:07:12] IP: ::1 | URL: /amsp/
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:07:22] IP: ::1 | URL: /amsp/
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:07:24] IP: ::1 | URL: /amsp/
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:07:32] IP: ::1 | URL: /amsp/
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:07:47] IP: ::1 | URL: /amsp/auth/login_process.php
+📝 LOGIN ATTEMPT
+Context: {
+    "method": "POST",
+    "referer": "https:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:07:47] IP: ::1 | URL: /amsp/auth/login_process.php
+🔍 DATABASE QUERY
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:07:51] IP: ::1 | URL: /amsp/auth/login_process.php
+📝 LOGIN ATTEMPT
+Context: {
+    "method": "POST",
+    "referer": "https:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:07:51] IP: ::1 | URL: /amsp/auth/login_process.php
+🔍 DATABASE QUERY
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:07:51] IP: ::1 | URL: /amsp/auth/login_process.php
+✅ LOGIN SUCCESS
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:07:51] IP: ::1 | URL: /amsp/auth/login_process.php
+↩️ REDIRECT
+Context: {
+    "from": "login",
+    "to": "..\/index.php",
+    "reason": "Successful authentication"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:07:54] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:07:54] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:08:00] IP: ::1 | URL: /amsp/auth/login_process.php
+📝 LOGIN ATTEMPT
+Context: {
+    "method": "POST",
+    "referer": "https:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:08:00] IP: ::1 | URL: /amsp/auth/login_process.php
+🔍 DATABASE QUERY
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:08:00] IP: ::1 | URL: /amsp/auth/login_process.php
+✅ LOGIN SUCCESS
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:08:00] IP: ::1 | URL: /amsp/auth/login_process.php
+↩️ REDIRECT
+Context: {
+    "from": "login",
+    "to": "..\/index.php",
+    "reason": "Successful authentication"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:08:03] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:08:03] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:08:07] IP: ::1 | URL: /amsp/
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-01-31 11:08:18] IP: ::1 | URL: /amsp/auth/login.pp
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/auth\/login.pp",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:39:25] IP: ::1 | URL: /amsp/login
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/login",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:39:34] IP: ::1 | URL: /amsp/auth/login_process.php
+📝 LOGIN ATTEMPT
+Context: {
+    "method": "POST",
+    "referer": "https:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:39:34] IP: ::1 | URL: /amsp/auth/login_process.php
+🔍 DATABASE QUERY
+Context: {
+    "username": "Admin"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:39:47] IP: ::1 | URL: /amsp/auth/login_process.php
+📝 LOGIN ATTEMPT
+Context: {
+    "method": "POST",
+    "referer": "https:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:39:47] IP: ::1 | URL: /amsp/auth/login_process.php
+🔍 DATABASE QUERY
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:40:02] IP: ::1 | URL: /amsp/auth/login_process.php
+📝 LOGIN ATTEMPT
+Context: {
+    "method": "POST",
+    "referer": "https:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:40:02] IP: ::1 | URL: /amsp/auth/login_process.php
+🔍 DATABASE QUERY
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:40:02] IP: ::1 | URL: /amsp/auth/login_process.php
+✅ LOGIN SUCCESS
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:40:02] IP: ::1 | URL: /amsp/auth/login_process.php
+↩️ REDIRECT
+Context: {
+    "from": "login",
+    "to": "..\/index.php",
+    "reason": "Successful authentication"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:47:19] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "Unknown"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:47:19] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:47:24] IP: ::1 | URL: /amsp/students/index.php
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/students\/index.php",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:47:26] IP: ::1 | URL: /amsp/students/index.php
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/students\/index.php",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:47:29] IP: ::1 | URL: /amsp/students/index.php
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/students\/index.php",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:47:29] IP: ::1 | URL: /amsp/students/index.php
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/students\/index.php",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:47:30] IP: ::1 | URL: /amsp/attendance/mark.php
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/attendance\/mark.php",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:47:31] IP: ::1 | URL: /amsp/students/index.php
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/students\/index.php",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:47:44] IP: ::1 | URL: /amsp/students/index.php
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/students\/index.php",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:58:16] IP: ::1 | URL: /amsp/
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:58:23] IP: ::1 | URL: /amsp/
+🚫 UNAUTHORIZED ACCESS
+Context: {
+    "attempted_page": "\/amsp\/",
+    "redirect_to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:58:44] IP: ::1 | URL: /amsp/auth/login_process.php
+📝 LOGIN ATTEMPT
+Context: {
+    "method": "POST",
+    "referer": "https:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:58:44] IP: ::1 | URL: /amsp/auth/login_process.php
+🔍 DATABASE QUERY
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:58:45] IP: ::1 | URL: /amsp/auth/login_process.php
+✅ LOGIN SUCCESS
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:58:45] IP: ::1 | URL: /amsp/auth/login_process.php
+↩️ REDIRECT
+Context: {
+    "from": "login",
+    "to": "..\/index.php",
+    "reason": "Successful authentication"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:58:53] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:58:53] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 13; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:59:13] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "admin"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:59:13] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:59:33] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "Unknown"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 07:59:33] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 08:03:54] IP: ::1 | URL: /amsp/auth/login_process.php
+📝 LOGIN ATTEMPT
+Context: {
+    "method": "POST",
+    "referer": "https:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 08:03:54] IP: ::1 | URL: /amsp/auth/login_process.php
+🔍 DATABASE QUERY
+Context: {
+    "username": "ADMIN"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 08:04:06] IP: ::1 | URL: /amsp/auth/login_process.php
+📝 LOGIN ATTEMPT
+Context: {
+    "method": "POST",
+    "referer": "https:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 08:04:06] IP: ::1 | URL: /amsp/auth/login_process.php
+🔍 DATABASE QUERY
+Context: {
+    "username": "Admin"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 08:04:07] IP: ::1 | URL: /amsp/auth/login_process.php
+✅ LOGIN SUCCESS
+Context: {
+    "username": "Admin"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 08:04:07] IP: ::1 | URL: /amsp/auth/login_process.php
+↩️ REDIRECT
+Context: {
+    "from": "login",
+    "to": "..\/index.php",
+    "reason": "Successful authentication"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 10:00:11] IP: ::1 | URL: /amsp/auth/logout.php
+🚪 LOGOUT
+Context: {
+    "username": "Unknown"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
+[2026-02-04 10:00:11] IP: ::1 | URL: /amsp/auth/logout.php
+↩️ REDIRECT
+Context: {
+    "from": "logout",
+    "to": "http:\/\/ronan-nonstatutory-limply.ngrok-free.dev\/amsp\/auth\/login.php",
+    "reason": "Session destroyed"
+}
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+--------------------------------------------------------------------------------
+
